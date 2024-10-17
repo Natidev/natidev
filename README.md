@@ -34,7 +34,7 @@
  <table width="100%" height="100%">
   <tr>
       <td>
-        <img alt="Java" height=64px src="https://cdn.worldvectorlogo.com/java-4.svg">
+        <img alt="Java" height=64px src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
      </td>
       <td>
         <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
@@ -62,7 +62,7 @@
 <table>
    <tr>
        <td align="center">
-        <img alt="Springboot" height=64px src="https://cdn.worldvectorlogo.com/spring-3.svg">
+        <img alt="Springboot" height=64px src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
      </td>
       <td align="center">
        <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
