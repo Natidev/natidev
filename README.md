@@ -114,6 +114,9 @@
 <a href="https://github.com/natidev/cinema-scope">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natidev&theme=react&repo=cinema-scope" />
 </a>
+<a href="https://github.com/natidev/sudoku>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natidev&theme=react&repo=sudoku" />
+</a>
 
 
 
