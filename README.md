@@ -13,7 +13,7 @@
 
 <h4 style="font-size : 20px;">👋 Hello! I'm Natinael, a web developer and a software engneering student from Ethiopia.I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!<h4>
 
- <table align="center" width="100%" height="100%" >
+<!-- <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
   
@@ -21,6 +21,7 @@
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natidev&theme=radical&layout=compact)](https://github.com/natidev) </td>
    </tr>
   </table>
+  -->
   
 
 
@@ -43,10 +44,7 @@
      </td>
           <td align="center">
        <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
-     </td>
-      <td align="center">
-      <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
-    </td>
+          </td>
           <td align="center">
        <img alt="Dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
      </td> 
@@ -63,6 +61,9 @@
        <td align="center">
         <img alt="Springboot" height=64px src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
      </td>
+        <td>
+     <img alt="NextJs" height=64px src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png">
+    </td>
       <td align="center">
        <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
      </td> 
